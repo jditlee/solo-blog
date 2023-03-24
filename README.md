@@ -10,6 +10,7 @@ Neptune
 
 ### 最新
 
+* [【ML】ChatGpt超详细注册指南](http://www.laobiao.fun/articles/2023/03/24/1679638768350.html)
 * [【Solo】解决solo同步GitHub失败bug](http://www.laobiao.fun/articles/2023/03/22/1679481918213.html)
 * [【ML】快速入门nebula graph](http://www.laobiao.fun/articles/2023/03/22/1679474118203.html)
 * [【ML】tensorflow训练卷积神经网络报错](http://www.laobiao.fun/articles/2023/03/22/1679472163095.html)
@@ -29,7 +30,6 @@ Neptune
 * [【ML】机器学习综述](http://www.laobiao.fun/articles/2023/02/27/1677487228630.html)
 * [关于](http://www.laobiao.fun/about)
 * [【NLP】bert入门之分词源码解析](http://www.laobiao.fun/articles/2023/02/23/1677122561047.html)
-* [我在 GitHub 上的开源项目](http://www.laobiao.fun/my-github-repos)
 
 
 
