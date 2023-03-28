@@ -10,6 +10,7 @@ Neptune
 
 ### 最新
 
+* [【chatgpt】一些免费的chatgpt体验网站](http://www.laobiao.fun/articles/2023/03/27/1679916728841.html)
 * [【推荐算法】深度模型在推荐领域的发展演变](http://www.laobiao.fun/articles/2023/03/27/1679914036203.html)
 * [【ML】ChatGpt超详细注册指南](http://www.laobiao.fun/articles/2023/03/24/1679638768350.html)
 * [【Solo】解决solo同步GitHub失败bug](http://www.laobiao.fun/articles/2023/03/22/1679481918213.html)
@@ -29,7 +30,6 @@ Neptune
 * [【NLP】汉语词性对照表](http://www.laobiao.fun/articles/2023/03/10/1678442888495.html)
 * [一些想法](http://www.laobiao.fun/mind)
 * [【ML】机器学习综述](http://www.laobiao.fun/articles/2023/02/27/1677487228630.html)
-* [关于](http://www.laobiao.fun/about)
 
 
 
