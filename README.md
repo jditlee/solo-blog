@@ -10,6 +10,7 @@ Neptune
 
 ### 最新
 
+* [git修改提交的用户名邮箱](http://www.laobiao.fun/articles/2023/05/24/1684913175528.html)
 * [【chatgpt】开源类chatgpt项目汇总](http://www.laobiao.fun/articles/2023/03/31/1680258133658.html)
 * [【爬虫】模拟登录自动签到](http://www.laobiao.fun/articles/2023/03/30/1680173058503.html)
 * [【chatgpt】一些免费的chatgpt体验网站](http://www.laobiao.fun/articles/2023/03/27/1679916728841.html)
@@ -29,7 +30,6 @@ Neptune
 * [【bigdata】4.hive安装](http://www.laobiao.fun/articles/2023/03/16/1678936506568.html)
 * [【bigdata】1.hadoop集群搭建](http://www.laobiao.fun/articles/2023/03/16/1678936070647.html)
 * [【推荐算法】deepwalk原理，实战以及工程化](http://www.laobiao.fun/articles/2023/03/13/1678721068966.html)
-* [【NLP】汉语词性对照表](http://www.laobiao.fun/articles/2023/03/10/1678442888495.html)
 
 
 
