@@ -10,6 +10,7 @@ Neptune
 
 ### 最新
 
+* [【推荐】多目标排序以及MMOE原理解析](http://www.laobiao.fun/articles/2023/05/25/1685011984247.html)
 * [git修改提交的用户名邮箱](http://www.laobiao.fun/articles/2023/05/24/1684913175528.html)
 * [【chatgpt】开源类chatgpt项目汇总](http://www.laobiao.fun/articles/2023/03/31/1680258133658.html)
 * [【爬虫】模拟登录自动签到](http://www.laobiao.fun/articles/2023/03/30/1680173058503.html)
@@ -29,7 +30,6 @@ Neptune
 * [【bigdata】2.Hadoop集群模式安装](http://www.laobiao.fun/articles/2023/03/16/1678936882691.html)
 * [【bigdata】4.hive安装](http://www.laobiao.fun/articles/2023/03/16/1678936506568.html)
 * [【bigdata】1.hadoop集群搭建](http://www.laobiao.fun/articles/2023/03/16/1678936070647.html)
-* [【推荐算法】deepwalk原理，实战以及工程化](http://www.laobiao.fun/articles/2023/03/13/1678721068966.html)
 
 
 
