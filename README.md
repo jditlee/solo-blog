@@ -10,6 +10,7 @@ Neptune
 
 ### 最新
 
+* [不安分的心](http://www.laobiao.fun/articles/2023/06/08/1686235362628.html)
 * [solo博客友链征集](http://www.laobiao.fun/articles/2023/06/01/1685614468233.html)
 * [LLM微调实战，做自己的chatgpt (一）](http://www.laobiao.fun/articles/2023/05/31/1685526466456.html)
 * [Linux纯命令行配置clash，自由访问GPT api](http://www.laobiao.fun/articles/2023/05/30/1685437715197.html)
@@ -29,7 +30,6 @@ Neptune
 * [【bigdata】Hbase总结](http://www.laobiao.fun/articles/2023/03/16/1678938058876.html)
 * [【bigdata】hive总结](http://www.laobiao.fun/articles/2023/03/16/1678937928724.html)
 * [【bigdata】Hadoop总结](http://www.laobiao.fun/articles/2023/03/16/1678937719444.html)
-* [【bigdata】3.idea连接虚拟机Hadoop集群](http://www.laobiao.fun/articles/2023/03/16/1678937003866.html)
 
 
 
