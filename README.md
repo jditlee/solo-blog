@@ -13,14 +13,12 @@ Neptune
 * [不安分的心](http://www.laobiao.fun/articles/2023/06/08/1686235362628.html)
 * [solo博客友链征集](http://www.laobiao.fun/articles/2023/06/01/1685614468233.html)
 * [LLM微调实战，做自己的chatgpt (一）](http://www.laobiao.fun/articles/2023/05/31/1685526466456.html)
-* [Linux纯命令行配置clash，自由访问GPT api](http://www.laobiao.fun/articles/2023/05/30/1685437715197.html)
 * [【推荐】多目标排序以及MMOE原理解析](http://www.laobiao.fun/articles/2023/05/25/1685011984247.html)
 * [git修改提交的用户名邮箱](http://www.laobiao.fun/articles/2023/05/24/1684913175528.html)
 * [【chatgpt】开源类chatgpt项目汇总](http://www.laobiao.fun/articles/2023/03/31/1680258133658.html)
 * [【爬虫】模拟登录自动签到](http://www.laobiao.fun/articles/2023/03/30/1680173058503.html)
 * [【chatgpt】一些免费的chatgpt体验网站](http://www.laobiao.fun/articles/2023/03/27/1679916728841.html)
 * [【推荐算法】深度模型在推荐领域的发展演变](http://www.laobiao.fun/articles/2023/03/27/1679914036203.html)
-* [【ML】ChatGpt超详细注册指南](http://www.laobiao.fun/articles/2023/03/24/1679638768350.html)
 * [【Solo】解决solo同步GitHub失败bug](http://www.laobiao.fun/articles/2023/03/22/1679481918213.html)
 * [【ML】快速入门nebula graph](http://www.laobiao.fun/articles/2023/03/22/1679474118203.html)
 * [【ML】tensorflow训练卷积神经网络报错](http://www.laobiao.fun/articles/2023/03/22/1679472163095.html)
@@ -30,6 +28,8 @@ Neptune
 * [【bigdata】Hbase总结](http://www.laobiao.fun/articles/2023/03/16/1678938058876.html)
 * [【bigdata】hive总结](http://www.laobiao.fun/articles/2023/03/16/1678937928724.html)
 * [【bigdata】Hadoop总结](http://www.laobiao.fun/articles/2023/03/16/1678937719444.html)
+* [【bigdata】3.idea连接虚拟机Hadoop集群](http://www.laobiao.fun/articles/2023/03/16/1678937003866.html)
+* [【bigdata】2.Hadoop集群模式安装](http://www.laobiao.fun/articles/2023/03/16/1678936882691.html)
 
 
 
